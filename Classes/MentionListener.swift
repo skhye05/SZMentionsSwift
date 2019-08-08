@@ -8,7 +8,7 @@
 
 import UIKit
 
-public class MentionListener: NSObject {
+@objc public class MentionListener: NSObject {
     /**
      @brief Array list of mentions managed by listener, accessible via the
      public mentions property.
