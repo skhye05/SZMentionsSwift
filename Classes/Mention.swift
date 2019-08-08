@@ -8,7 +8,7 @@
 
 import UIKit
 
-@objc public struct Mention: Equatable {
+public struct Mention: Equatable {
     /**
      @brief The location of the mention within the attributed string of the UITextView
      */
